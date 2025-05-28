@@ -1,2 +1,2 @@
 Infra-workspace
-step by step !
+step by step in detail
